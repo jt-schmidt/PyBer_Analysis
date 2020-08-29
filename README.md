@@ -10,15 +10,31 @@ Links to images are working and displayed correctly. (2 pt)
 Overview:  The purpose of the new analysis is well defined. (3 pt)
 --->
 ## Overview
+For this challenge, task was to utilize MatPlotLib with Python to explore various charting & formatting options available to perform intrisic data visualization.
 
+Specific dataset used was a simulation of ride sharing data:
+-- Ride data (2376 rows)
+-- City data (121 rows)
+
+Using the visualizations within the module & challenge assignment, goal is to determine what relationships (specifically by city type) can be discerned within the datasets.
 
 <!---
 Results:  There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 --->
 ## Results
 
+Key charts from module & challenge assignment to determine pattern by city types: 
+-- Rural
+-- Suburban
+-- Urban
+
+Fig. 1
 ![PyBer_fare_summary](/analysis/PyBer_fare_summary.png)
+
+Fig. 2
 ![Fig1](/analysis/Fig1.png)
+
+Fig. 3
 ![Fig7](/analysis/Fig7.png)
 
 <!---
