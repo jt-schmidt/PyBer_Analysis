@@ -24,9 +24,9 @@ Results:  There is a description of the differences in ride-sharing data among t
 ## Results
 
 Key charts from module & challenge assignment to determine pattern by city types: 
--- Rural
--- Suburban
--- Urban
+-Rural
+-Suburban
+-Urban
 
 *( Total Fare By City Type )*
 ![PyBer_fare_summary](/analysis/PyBer_fare_summary.png)
