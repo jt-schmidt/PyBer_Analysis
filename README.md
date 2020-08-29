@@ -13,8 +13,8 @@ Overview:  The purpose of the new analysis is well defined. (3 pt)
 For this challenge, task was to utilize MatPlotLib with Python to explore various charting & formatting options available to perform intrisic data visualization.
 
 Specific dataset used was a simulation of ride sharing data:
--- Ride data (2376 rows)
--- City data (121 rows)
+- Ride data (2376 rows)
+- City data (121 rows)
 
 Using the visualizations within the module & challenge assignment, goal is to determine what relationships (specifically by city type) can be discerned within the datasets.
 
@@ -43,9 +43,9 @@ Summary:  There is a statement summarizing three business recommendations to the
 ## Summary
 
 Based on Total Fare by City Type, highest fare revenue consistently month over month consistently comes from city types:
-1. Urban
-2. Suburban
-3. Rural 
+- Urban
+- Suburban
+- Rural 
 
 Urban city types achieves this through sheer volume.  Average Fare versus Total Number of Rides Per City Type shows a descending relationship.  
 The higher number of rides within Urban environment leads to lower average fare cost---likely due to increased competition among drivers.
