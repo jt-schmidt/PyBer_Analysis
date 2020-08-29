@@ -28,16 +28,34 @@ Key charts from module & challenge assignment to determine pattern by city types
 -- Suburban
 -- Urban
 
-( Total Fare By City Type )
+*( Total Fare By City Type )*
 ![PyBer_fare_summary](/analysis/PyBer_fare_summary.png)
 
-( Average Fare versus Total Number of Rides Per City Type ) 
+*( Average Fare versus Total Number of Rides Per City Type )*
 ![Fig1](/analysis/Fig1.png)
 
-( Percentage of Total Drivers by City Type )
+*( Percentage of Total Drivers by City Type )*
 ![Fig7](/analysis/Fig7.png)
 
 <!---
 Summary:  There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
 --->
 ## Summary
+
+Based on Total Fare by City Type, highest fare revenue consistently month over month consistently comes from city types:
+1. Urban
+2. Suburban
+3. Rural 
+
+Urban city types achieves this through sheer volume.  Average Fare versus Total Number of Rides Per City Type shows a descending relationship.  
+The higher number of rides within Urban environment leads to lower average fare cost---likely due to increased competition among drivers.
+
+Percentage of TOtal Drivers by City Type helps to confirm this hypthosis.  Number of available drivers from highest to lowest is:
+-- Urban
+-- Suburban
+-- Rural
+
+To address this disparity, the following is recommended:
+1.  Increasing the number of available drivers in rural & suburban cities may help to reduce average fare price.
+2.  Late February shows peak alignment in total fare revenue among city types.  It is recommended to take advantage of this by increasing fare pricing.
+3.  Early January alignment as well, but for lowest fare revenue.  This may be due to holiday season.  To confirm, it is recommended to extend analysis to include December 2018.
