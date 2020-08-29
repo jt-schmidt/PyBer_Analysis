@@ -28,13 +28,13 @@ Key charts from module & challenge assignment to determine pattern by city types
 -- Suburban
 -- Urban
 
-Fig. 1
+( Total Fare By City Type )
 ![PyBer_fare_summary](/analysis/PyBer_fare_summary.png)
 
-Fig. 2
+( Average Fare versus Total Number of Rides Per City Type ) 
 ![Fig1](/analysis/Fig1.png)
 
-Fig. 3
+( Percentage of Total Drivers by City Type )
 ![Fig7](/analysis/Fig7.png)
 
 <!---
